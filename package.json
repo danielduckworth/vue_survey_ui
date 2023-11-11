@@ -10,7 +10,7 @@
   "dependencies": {
     "@headlessui/vue": "^1.6.6",
     "@heroicons/vue": "^1.0.6",
-    "axios": "^0.27.2",
+    "axios": "^1.6.0",
     "uuid": "^8.3.2",
     "vue": "^3.2.25",
     "vue-router": "^4.1.2",
